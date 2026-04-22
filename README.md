@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielcavalierii)
 [![Email](https://img.shields.io/badge/Email-8A2BE2?logo=gmail&logoColor=white)](mailto:ogabrielcavalieri@gmail.com)
-[![Portfólio](https://img.shields.io/badge/Portfólio-111?logo=vercel&logoColor=white)](https://seusite.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-111?logo=vercel&logoColor=white)](https://github.com/gabrielcavalieri/gabrielcavalieri.github.io)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/gabrielcavalieri.dev)
 
 ---
