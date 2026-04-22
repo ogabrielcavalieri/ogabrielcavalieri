@@ -52,12 +52,6 @@
 - 🎮 **gabrielcavalieri.github.io** — meu site/portfólio pessoal  
   [Acessar repositório](https://github.com/gabrielcavalieri/gabrielcavalieri.github.io)
 
----
-
-## 📬 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielcavalierii)
-[![Email](https://img.shields.io/badge/Email-8A2BE2?logo=gmail&logoColor=white)](mailto:ogabrielcavalieri@gmail.com)
 
 ---
 
